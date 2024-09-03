@@ -1,4 +1,5 @@
-## Hi there 👋
+大家好，我是来自计算机学院计算机科学与技术3班的方伟城，我的故事充满了对未知的探索和对技术的执着追求。
+在我的学习生涯中，计算机科学一直是我最热爱的领域。大学期间，我深入学习了数据结构、算法、操作系统、计算机网络等基础课程，并积极参与各种编程竞赛和项目开发，不断提升自己的编程能力和解决问题的能力。
 
 <!--
 **fwc031505/fwc031505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
